@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/react-portfolio-app3/static/css/main.abd7b7ce.css",
+    "main.js": "/react-portfolio-app3/static/js/main.08064163.js",
+    "static/media/webdev1.jpg": "/react-portfolio-app3/static/media/webdev1.04e234cbab55e2db4246.jpg",
+    "static/media/gameboy-bg.jpg": "/react-portfolio-app3/static/media/gameboy-bg.d6881ce2173e6f27da39.jpg",
+    "static/media/webdev2.jpg": "/react-portfolio-app3/static/media/webdev2.ce1bc343d487e0d73b1d.jpg",
+    "static/media/arcade-bg.jpg": "/react-portfolio-app3/static/media/arcade-bg.738a982a013c21f2ebc8.jpg",
+    "static/media/project-pokedex.png": "/react-portfolio-app3/static/media/project-pokedex.3ee1a940016508b562f3.png",
+    "static/media/project-ddbb.png": "/react-portfolio-app3/static/media/project-ddbb.7b38a127260419409cd2.png",
+    "static/media/project-ee.png": "/react-portfolio-app3/static/media/project-ee.b45cdb9030bfdf26dee8.png",
+    "static/media/sample-resume.pdf": "/react-portfolio-app3/static/media/sample-resume.f8f581ebc53d796c1468.pdf",
+    "index.html": "/react-portfolio-app3/index.html",
+    "main.abd7b7ce.css.map": "/react-portfolio-app3/static/css/main.abd7b7ce.css.map",
+    "main.08064163.js.map": "/react-portfolio-app3/static/js/main.08064163.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.abd7b7ce.css",
+    "static/js/main.08064163.js"
+  ]
+}
